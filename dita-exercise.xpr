@@ -2,16 +2,7 @@
 <project>
     <meta>
         <filters directoryPatterns="" filePatterns="\Qdita-exercise.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options>
-            <serialized xml:space="preserve">
-                <serializableOrderedMap>
-                    <entry>
-                        <String>keys.context</String>
-                        <String>${pdu}/toothpaste_map.ditamap</String>
-                    </entry>
-                </serializableOrderedMap>
-            </serialized>
-        </options>
+        <options/>
     </meta>
     <projectTree name="dita-exercise.xpr">
         <folder path="."/>
