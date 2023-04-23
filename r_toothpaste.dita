@@ -2,6 +2,11 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_toothpaste">
     <title>r_toothpaste</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <shortdesc>Below is the list of things needed to perform the activity </shortdesc>
+    <refbody>
+        <example><b>List of things needed to perform the activity:</b><ul id="ul_jbc_tdv_fxb">
+                <li>toothpaste </li>
+                <li>toothbrush</li>
+            </ul></example>
+    </refbody>
 </reference>
