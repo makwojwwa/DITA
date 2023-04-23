@@ -2,9 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_toothpaste">
     <title>t_toothpaste</title>
-    <shortdesc>This task refers to the application of toothpaste on a toothbrush. It is intended to
-        novices to this process, who have no experience at all with toothpaste, toothbrushes or tube
-        packaging.</shortdesc>
+    <shortdesc>This task refers to the application of toothpaste on a <ph keyref="tool"/>. It is
+        intended to novices to this process, who have no experience at all with <ph
+            keyref="material"/>, toothbrushes or tube packaging.</shortdesc>
     <taskbody>
         <prereq id="prereq_gxn_4bv_fxb">Make sure that you have obtained all required
             items.</prereq>
