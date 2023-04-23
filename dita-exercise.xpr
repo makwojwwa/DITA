@@ -6,8 +6,8 @@
             <serialized xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
-                        <String>enable.project.master.files.support</String>
-                        <Boolean>true</Boolean>
+                        <String>keys.context</String>
+                        <String>${pdu}/toothpaste_map.ditamap</String>
                     </entry>
                 </serializableOrderedMap>
             </serialized>
