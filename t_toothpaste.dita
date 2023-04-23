@@ -2,8 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_toothpaste">
     <title>t_toothpaste</title>
-    <shortdesc>This task refers to the application of toothpaste on a <ph keyref="tool"/>. It is
-        intended to novices to this process, who have no experience at all with <ph
+    <shortdesc>This task refers to the application of  <ph keyref="material"/>on a <ph keyref="tool"
+        />. It is intended to novices to this process, who have no experience at all with <ph
             keyref="material"/>, toothbrushes or tube packaging.</shortdesc>
     <taskbody>
         <prereq id="prereq_gxn_4bv_fxb">Make sure that you have obtained all required
@@ -72,7 +72,7 @@
                 <cmd>Put the <ph keyref="material"/> tube aside.</cmd>
             </step>
         </steps>
-        <result id="result_wmc_ddv_fxb">Toothpaste is present on the toothbrush and you are ready to
-            brush your teeth.</result>
+        <result id="result_wmc_ddv_fxb">Toothpaste is present on the <ph keyref="tool"/> and you are
+            ready to brush your teeth.</result>
     </taskbody>
 </task>
