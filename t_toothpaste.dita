@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_toothpaste">
-    <title>t_toothpaste</title>
+    <title>Toothpaste application procedure</title>
     <shortdesc>This task refers to the application of  <ph keyref="material"/>on a <ph keyref="tool"
         />. It is intended to novices to this process, who have no experience at all with <ph
             keyref="material"/>, toothbrushes or tube packaging.</shortdesc>
