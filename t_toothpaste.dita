@@ -75,4 +75,7 @@
         <result id="result_wmc_ddv_fxb">Toothpaste is present on the <ph keyref="tool"/> and you are
             ready to brush your teeth.</result>
     </taskbody>
+    <related-links>
+        <link href="r_toothpaste.dita"/>
+    </related-links>
 </task>

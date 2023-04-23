@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Toothpaste_Map</title>
-    <topicref href="c_toothpaste.dita" collection-type="family">
+    <topicref href="c_toothpaste.dita" collection-type="family" linking="normal">
         <topicref href="t_toothpaste.dita"/>
         <topicref href="r_toothpaste.dita"/>
     </topicref>
