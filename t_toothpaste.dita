@@ -2,15 +2,71 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_toothpaste">
     <title>t_toothpaste</title>
-    <shortdesc></shortdesc>
+    <shortdesc>This task refers to the application of toothpaste on a toothbrush. It is intended to
+        novices to this process, who have no experience at all with toothpaste, toothbrushes or tube
+        packaging.</shortdesc>
     <taskbody>
+        <prereq id="prereq_gxn_4bv_fxb">Make sure that you have obtained all required
+            items.</prereq>
         <context>
-            <p></p>
+            <p>Application of toothpaste on a toothbrush. </p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>Take the toothpaste and the toothbrush and go to the bathroom.</cmd>
+            </step>
+            <step>
+                <cmd>Put the toothbrush on the washbasin or on the countertop, depending on the
+                    interior design of your bathroom. </cmd>
+                <info>You will not need the toothbrush for a while.</info>
+            </step>
+            <step>
+                <cmd>Remove the cap from the toothpaste tube.</cmd>
+            </step>
+            <step>
+                <cmd>Use your fingers to remove the silver safety seal from the tube opening.</cmd>
+            </step>
+            <step>
+                <cmd>Throw the safety seal to the litter bin.</cmd>
+            </step>
+            <step>
+                <cmd>While still holding the toothpaste tube in one hand, pick the toothbrush with
+                    your other hand.</cmd>
+            </step>
+            <step>
+                <cmd>Position the toothpaste tube opening slightly above the toothbrush
+                    bristle.</cmd>
+                <info>Ideally, the end of the tube opening should be located directly above the end
+                    of the toothbrush bristle that is closer to your hand holding the
+                    toothbrush.</info>
+            </step>
+            <step>
+                <cmd>Press lightly the rear area of the toothpaste tube with your thumb.</cmd>
+                <info>Remember to press the rear area of the toothpaste tube (rear area is the area
+                    on the opposite side of the tube opening). This helps control the rate of
+                    toothpaste application.</info>
+            </step>
+            <step>
+                <cmd>While pressing the toothpaste tube, observe the toothpaste coming out and place
+                    it on the toothpaste bristle.</cmd>
+            </step>
+            <step>
+                <cmd>Continue pressing the toothpaste tube, while slowly moving the hand holding the
+                    toothbrush away from the hand holding the toothpaste tube.</cmd>
+                <info>Remember that the toothpaste opening must be located directly above the
+                    toothbrush bristle at all times.</info>
+            </step>
+            <step>
+                <cmd>Once the toothpaste you are applying on the toothbrush reaches the other end of
+                    the bristle, stop pressing the toothpaste tube.</cmd>
+                <info>Alternatively, you can stop pressing the toothpaste tube even earlier. The
+                    result will be less toothpaste on the toothbrush.</info>
+            </step>
+            <step>
+                <cmd>Put the toothpaste tube aside.</cmd>
             </step>
         </steps>
+        <result id="result_wmc_ddv_fxb">Toothpaste is present on the toothbrush and you are ready to
+            brush your teeth.</result>
     </taskbody>
 </task>
