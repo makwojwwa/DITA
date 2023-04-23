@@ -5,8 +5,8 @@
     <shortdesc>Below is the list of things needed to perform the activity </shortdesc>
     <refbody>
         <example><b>List of things needed to perform the activity:</b><ul id="ul_jbc_tdv_fxb">
-                <li>toothpaste </li>
-                <li>toothbrush</li>
+                <li><ph keyref="material"/></li>
+                <li><ph keyref="tool"/></li>
             </ul></example>
     </refbody>
 </reference>
