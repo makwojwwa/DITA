@@ -6,4 +6,5 @@
         <topicref href="t_toothpaste.dita"/>
         <topicref href="r_toothpaste.dita"/>
     </topicref>
+    <topicref href="keys_0.ditamap" format="ditamap"/>
 </map>
