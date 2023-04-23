@@ -9,19 +9,20 @@
         <prereq id="prereq_gxn_4bv_fxb">Make sure that you have obtained all required
             items.</prereq>
         <context>
-            <p>Application of toothpaste on a toothbrush. </p>
+            <p>Application of <ph keyref="material"/> on a <ph keyref="tool"/>.</p>
         </context>
         <steps>
             <step>
-                <cmd>Take the toothpaste and the toothbrush and go to the bathroom.</cmd>
+                <cmd>Take the <ph keyref="material"/> and the <ph keyref="tool"/> and go to the
+                    bathroom.</cmd>
             </step>
             <step>
-                <cmd>Put the toothbrush on the washbasin or on the countertop, depending on the
-                    interior design of your bathroom. </cmd>
-                <info>You will not need the toothbrush for a while.</info>
+                <cmd>Put the <ph keyref="tool"/> on the washbasin or on the countertop, depending on
+                    the interior design of your bathroom. </cmd>
+                <info>You will not need the <ph keyref="tool"/> for a while.</info>
             </step>
             <step>
-                <cmd>Remove the cap from the toothpaste tube.</cmd>
+                <cmd>Remove the cap from the <ph keyref="material"/> tube.</cmd>
             </step>
             <step>
                 <cmd>Use your fingers to remove the silver safety seal from the tube opening.</cmd>
@@ -30,40 +31,45 @@
                 <cmd>Throw the safety seal to the litter bin.</cmd>
             </step>
             <step>
-                <cmd>While still holding the toothpaste tube in one hand, pick the toothbrush with
-                    your other hand.</cmd>
+                <cmd>While still holding the <ph keyref="material"/> tube in one hand, pick the <ph
+                        keyref="tool"/> with your other hand.</cmd>
             </step>
             <step>
-                <cmd>Position the toothpaste tube opening slightly above the toothbrush
-                    bristle.</cmd>
+                <cmd>Position the <ph keyref="material"/> tube opening slightly above the <ph
+                        keyref="tool"/> bristle.</cmd>
                 <info>Ideally, the end of the tube opening should be located directly above the end
-                    of the toothbrush bristle that is closer to your hand holding the
-                    toothbrush.</info>
+                    of the <ph keyref="tool"/> bristle that is closer to your hand holding the <ph
+                        keyref="tool"/>.</info>
             </step>
             <step>
-                <cmd>Press lightly the rear area of the toothpaste tube with your thumb.</cmd>
-                <info>Remember to press the rear area of the toothpaste tube (rear area is the area
-                    on the opposite side of the tube opening). This helps control the rate of
-                    toothpaste application.</info>
+                <cmd>Press lightly the rear area of the <ph keyref="material"/> tube with your
+                    thumb.</cmd>
+                <info>Remember to press the rear area of the <ph keyref="material"/> tube (rear area
+                    is the area on the opposite side of the tube opening). This helps control the
+                    rate of <ph keyref="material"/> application.</info>
             </step>
             <step>
-                <cmd>While pressing the toothpaste tube, observe the toothpaste coming out and place
-                    it on the toothpaste bristle.</cmd>
+                <cmd>While pressing the <ph keyref="material"/> tube, observe the <ph
+                        keyref="material"/> coming out and place it on the <ph keyref="material"/>
+                    bristle.</cmd>
             </step>
             <step>
-                <cmd>Continue pressing the toothpaste tube, while slowly moving the hand holding the
-                    toothbrush away from the hand holding the toothpaste tube.</cmd>
-                <info>Remember that the toothpaste opening must be located directly above the
-                    toothbrush bristle at all times.</info>
+                <cmd>Continue pressing the <ph keyref="material"/> tube, while slowly moving the
+                    hand holding the <ph keyref="tool"/> away from the hand holding the toothpaste
+                    tube.</cmd>
+                <info>Remember that the <ph keyref="material"/> opening must be located directly
+                    above the <ph keyref="tool"/> bristle at all times.</info>
             </step>
             <step>
-                <cmd>Once the toothpaste you are applying on the toothbrush reaches the other end of
-                    the bristle, stop pressing the toothpaste tube.</cmd>
-                <info>Alternatively, you can stop pressing the toothpaste tube even earlier. The
-                    result will be less toothpaste on the toothbrush.</info>
+                <cmd>Once the <ph keyref="material"/> you are applying on the <ph keyref="tool"/>
+                    reaches the other end of the bristle, stop pressing the <ph keyref="material"/>
+                    tube.</cmd>
+                <info>Alternatively, you can stop pressing the <ph keyref="material"/> tube even
+                    earlier. The result will be less <ph keyref="material"/> on the <ph
+                        keyref="tool"/>.</info>
             </step>
             <step>
-                <cmd>Put the toothpaste tube aside.</cmd>
+                <cmd>Put the <ph keyref="material"/> tube aside.</cmd>
             </step>
         </steps>
         <result id="result_wmc_ddv_fxb">Toothpaste is present on the toothbrush and you are ready to
