@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Keys</title>
+    <keydef keys="tool">
+        <topicmeta>
+            <keywords>
+                <keyword>toothbrush</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+    <keydef keys="material">
+        <topicmeta>
+            <keywords>
+                <keyword>toothpaste</keyword>
+            </keywords>
+        </topicmeta>
+    </keydef>
+</map>
