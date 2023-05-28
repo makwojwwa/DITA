@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /D:\Komunikacja techniczna\Jacek Krawczyk\Git_DITA\temp\pdf?><?workdir-uri file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="t_toothpaste" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="task:1;3:25" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="title:1;4:12">Procedura nakładania pasty do zębów</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="shortdesc:1;5:16">Niniejsze zadanie odnosi się do nakładania pasty do zębów na szczoteczkę do zębów. Jest przeznaczone dla osób, dla których ten proces jest nowością, które nie posiadają żadnego doświadczenia z pastą do zębów, szczoteczką do zębów ani tubką.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="taskbody:1;6:15">
+        <prereq id="prereq_gxn_4bv_fxb" class="- topic/section task/prereq " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="prereq:1;7:41">Upewnij się, że posiadasz wszystkie potrzebne przedmioty.</prereq>
+        <context class="- topic/section task/context " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="context:1;8:18">
+            <p class="- topic/p " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="p:1;9:16">Nakładanie pasty do zębów na szczoteczkę do zębów.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="steps:1;11:16">
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:1;12:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:1;13:22">Weź pastę do zębów i pójdź do łazienki.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:2;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:2;16:22">W zależności od rodzaju wyposażenia Twojej łazienki połóż szczoteczkę do zębów na umywalce lub blacie szafki. </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="info:1;17:23">Szczoteczka do zębów nie będzie Ci potrzebna przez jakiś czas.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:3;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:3;20:22">Odkręć zakrętkę z tubki z pastą do zębów.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:4;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:4;23:22">Palcami usuń srebrną osłonkę ochronną z szyjki tubki.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:5;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:5;26:22">Wyrzuć osłonkę ochronną do kosza na śmieci.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:6;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:6;29:22">Trzymając tubkę z pastą do zębów w jednej ręce, weź szczoteczkę do zębów do drugiej ręki.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:7;31:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:7;32:22">Ustaw szyjkę tubki z pastą do zębów nisko nad włosiem szczoteczki do zębów.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="info:2;33:23">Postaraj się, żeby szyjka tubki była umieszczona bezpośrednio nad końcem włosia szczoteczki do zębów, bliżej ręki trzymającej szczoteczkę.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:8;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:8;36:22">Delikatnie naciśnij kciukiem koniec tubki z pastą do zębów.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="info:3;37:23">Pamiętaj, żeby ściskać końcówkę tubki z pastą do zębów (końcówka znajduje się po przeciwnej stronie szyjki). Pomaga to kontrolować ilość nakładanej pasty do zębów.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:9;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:9;40:22">Obserwuj pastę wychodzącą z tubki i umieść ją na włosiu szczoteczki do zębów.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:10;42:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:10;43:22">Kontynuuj ściskanie tubki z pastą do zębów podczas jednoczesnego odsuwania ręki trzymającej szczoteczkę od ręki trzymającej pastę.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="info:4;44:23">Pamiętaj, że szyjka tubki musi być przez cały czas umiejscowiona bezpośrednio nad włosiem szczoteczki do zębów.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:11;46:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:11;47:22">Przestań ściskać tubkę z pastą do zębów, kiedy nakładana pasta pokryje całe włosie szczoteczki.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="info:5;48:23">Możesz zakończyć ściskanie tubki z pastą do zębów wcześniej. W efekcie otrzymasz mniej pasty do zębów na szczoteczce do zębów.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="step:12;50:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="cmd:12;51:22">Odłóż tubkę z pastą do zębów na bok.</cmd>
+            </step>
+        </steps>
+        <result id="result_wmc_ddv_fxb" class="- topic/section task/result " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="result:1;54:41">Pasta jest nałożona na szczoteczkę, a Ty możesz rozpocząć szczotkowanie zębów.</result>
+    </taskbody>
+    <related-links class="- topic/related-links " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="related-links:1;56:20">
+        <link href="r_toothpaste.dita" class="- topic/link " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste%20-%20Copy_pol.dita" xtrc="link:1;57:41"/>
+    </related-links>
+</task>

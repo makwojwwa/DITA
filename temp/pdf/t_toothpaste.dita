@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /D:\Komunikacja techniczna\Jacek Krawczyk\Git_DITA\temp\pdf?><?workdir-uri file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/temp/pdf/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="t_toothpaste" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="task:1;3:25" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="title:1;4:12">Toothpaste application procedure</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="shortdesc:1;5:16">This task refers to the application of  <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:1;5:79"/>on a <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:2;6:11"/>. It is intended to novices to this process, who have no experience at all with <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:3;7:32"/>, toothbrushes or tube packaging.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="taskbody:1;8:15">
+        <prereq id="prereq_gxn_4bv_fxb" class="- topic/section task/prereq " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="prereq:1;9:41">Make sure that you have obtained all required
+            items.</prereq>
+        <context class="- topic/section task/context " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="context:1;11:18">
+            <p class="- topic/p " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="p:1;12:16">Application of <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:4;12:54"/> on a <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:5;12:79"/>.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="steps:1;14:16">
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:1;15:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:1;16:22">Take the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:6;16:54"/> and the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:7;16:82"/> and go to the
+                    bathroom.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:2;19:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:2;20:22">Put the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:8;20:49"/> on the washbasin or on the countertop, depending on
+                    the interior design of your bathroom. </cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="info:1;22:23">You will not need the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:9;22:64"/> for a while.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:3;24:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:3;25:22">Remove the cap from the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:10;25:69"/> tube.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:4;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:4;28:22">Use your fingers to remove the silver safety seal from the tube opening.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:5;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:5;31:22">Throw the safety seal to the litter bin.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:6;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:6;34:22">While still holding the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:11;34:69"/> tube in one hand, pick the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:12;35:40"/> with your other hand.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:7;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:7;38:22">Position the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:13;38:58"/> tube opening slightly above the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:14;39:40"/> bristle.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="info:2;40:23">Ideally, the end of the tube opening should be located directly above the end
+                    of the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:15;41:47"/> bristle that is closer to your hand holding the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:16;42:40"/>.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:8;44:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:8;45:22">Press lightly the rear area of the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:17;45:80"/> tube with your
+                    thumb.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="info:3;47:23">Remember to press the rear area of the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:18;47:85"/> tube (rear area
+                    is the area on the opposite side of the tube opening). This helps control the
+                    rate of <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:19;49:52"/> application.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:9;51:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:9;52:22">While pressing the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:20;52:64"/> tube, observe the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:21;53:44"/> coming out and place it on the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:22;53:99"/>
+                    bristle.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:10;56:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:10;57:22">Continue pressing the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:23;57:67"/> tube, while slowly moving the
+                    hand holding the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:24;58:57"/> away from the hand holding the toothpaste
+                    tube.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="info:4;60:23">Remember that the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:25;60:64"/> opening must be located directly
+                    above the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:26;61:50"/> bristle at all times.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:11;63:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:11;64:22">Once the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:27;64:54"/> you are applying on the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:28;64:98"/>
+                    reaches the other end of the bristle, stop pressing the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:29;65:100"/>
+                    tube.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="info:5;67:23">Alternatively, you can stop pressing the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:30;67:87"/> tube even
+                    earlier. The result will be less <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:31;68:77"/> on the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:32;69:40"/>.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="step:12;71:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="cmd:12;72:22">Put the <ph keyref="material" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:33;72:53"/> tube aside.</cmd>
+            </step>
+        </steps>
+        <result id="result_wmc_ddv_fxb" class="- topic/section task/result " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="result:1;75:41">Toothpaste is present on the <ph keyref="tool" class="- topic/ph " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="ph:34;75:89"/> and you are
+            ready to brush your teeth.</result>
+    </taskbody>
+    <related-links class="- topic/related-links " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="related-links:1;78:20">
+        <link href="r_toothpaste.dita" class="- topic/link " xtrf="file:/D:/Komunikacja%20techniczna/Jacek%20Krawczyk/Git_DITA/t_toothpaste.dita" xtrc="link:1;79:41"/>
+    </related-links>
+</task>
