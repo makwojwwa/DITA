@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_toothpaste">
+    <title>Procedura nakładania pasty do zębów</title>
+    <shortdesc>Niniejsze zadanie odnosi się do nakładania pasty do zębów na szczoteczkę do zębów. Jest przeznaczone dla osób, dla których ten proces jest nowością, które nie posiadają żadnego doświadczenia z pastą do zębów, szczoteczką do zębów ani tubką.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_gxn_4bv_fxb">Upewnij się, że posiadasz wszystkie potrzebne przedmioty.</prereq>
+        <context>
+            <p>Nakładanie pasty do zębów na szczoteczkę do zębów.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Weź pastę do zębów i pójdź do łazienki.</cmd>
+            </step>
+            <step>
+                <cmd>W zależności od rodzaju wyposażenia Twojej łazienki połóż szczoteczkę do zębów na umywalce lub blacie szafki. </cmd>
+                <info>Szczoteczka do zębów nie będzie Ci potrzebna przez jakiś czas.</info>
+            </step>
+            <step>
+                <cmd>Odkręć zakrętkę z tubki z pastą do zębów.</cmd>
+            </step>
+            <step>
+                <cmd>Palcami usuń srebrną osłonkę ochronną z szyjki tubki.</cmd>
+            </step>
+            <step>
+                <cmd>Wyrzuć osłonkę ochronną do kosza na śmieci.</cmd>
+            </step>
+            <step>
+                <cmd>Trzymając tubkę z pastą do zębów w jednej ręce, weź szczoteczkę do zębów do drugiej ręki.</cmd>
+            </step>
+            <step>
+                <cmd>Ustaw szyjkę tubki z pastą do zębów nisko nad włosiem szczoteczki do zębów.</cmd>
+                <info>Postaraj się, żeby szyjka tubki była umieszczona bezpośrednio nad końcem włosia szczoteczki do zębów, bliżej ręki trzymającej szczoteczkę.</info>
+            </step>
+            <step>
+                <cmd>Delikatnie naciśnij kciukiem koniec tubki z pastą do zębów.</cmd>
+                <info>Pamiętaj, żeby ściskać końcówkę tubki z pastą do zębów (końcówka znajduje się po przeciwnej stronie szyjki). Pomaga to kontrolować ilość nakładanej pasty do zębów.</info>
+            </step>
+            <step>
+                <cmd>Obserwuj pastę wychodzącą z tubki i umieść ją na włosiu szczoteczki do zębów.</cmd>
+            </step>
+            <step>
+                <cmd>Kontynuuj ściskanie tubki z pastą do zębów podczas jednoczesnego odsuwania ręki trzymającej szczoteczkę od ręki trzymającej pastę.</cmd>
+                <info>Pamiętaj, że szyjka tubki musi być przez cały czas umiejscowiona bezpośrednio nad włosiem szczoteczki do zębów.</info>
+            </step>
+            <step>
+                <cmd>Przestań ściskać tubkę z pastą do zębów, kiedy nakładana pasta pokryje całe włosie szczoteczki.</cmd>
+                <info>Możesz zakończyć ściskanie tubki z pastą do zębów wcześniej. W efekcie otrzymasz mniej pasty do zębów na szczoteczce do zębów.</info>
+            </step>
+            <step>
+                <cmd>Odłóż tubkę z pastą do zębów na bok.</cmd>
+            </step>
+        </steps>
+        <result id="result_wmc_ddv_fxb">Pasta jest nałożona na szczoteczkę, a Ty możesz rozpocząć szczotkowanie zębów.</result>
+    </taskbody>
+    <related-links>
+        <link href="r_toothpaste.dita"/>
+    </related-links>
+</task>
