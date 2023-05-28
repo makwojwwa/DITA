@@ -10,31 +10,34 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../../Marta%20Bartnicka/MemoQ/t_toothpaste%20-%20Copy_pol.dita</String>
+                                    <String>toothpaste_map.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>6/dita/dita.framework/DITA/DITA PDF - based on HTML5 &amp; CSS</String>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map PDF - based on HTML5 &amp; CSS</String>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map HTML5</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
                                     <list>
+                                        <String>DITAMAP</String>
                                         <String>DITAMAP</String>
                                     </list>
                                 </field>
                                 <field name="scenarioStorageLocations">
                                     <list>
                                         <Byte>2</Byte>
+                                        <Byte>2</Byte>
                                     </list>
                                 </field>
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>toothpaste_map.ditamap</String>
+                                    <String>../../Marta%20Bartnicka/MemoQ/t_toothpaste%20-%20Copy_pol.dita</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>DITA Map PDF - based on XSL-FO - Copy</String>
+                                        <String>6/dita/dita.framework/DITA/DITA HTML5</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
